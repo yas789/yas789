@@ -1,31 +1,31 @@
 # Hi, I'm Yassir Maknaoui
 
-I'm a software engineer focused on AI systems, backend development, and optimisation. I recently completed a First-Class BSc in Computer Science and Mathematics at Royal Holloway, University of London.
+Software engineer focused on AI systems, backend platforms, and optimisation. I graduated with First-Class Honours in Computer Science and Mathematics from Royal Holloway, University of London, and I build software that is practical, performant, and production-ready.
 
-I enjoy building production software, research tooling, and intelligent systems that are practical, scalable, and well engineered.
+My work sits at the intersection of backend engineering, intelligent systems, and applied research. I care about clean architecture, operational reliability, and turning complex technical ideas into useful products.
 
-## What I work on
-- AI systems, RAG pipelines, embeddings, and LLM infrastructure
-- Backend engineering with Python, FastAPI, Flask, SQL, and PostgreSQL
-- Optimisation, workflow scheduling, and performance-focused systems
-- Full-stack and mobile product development with React and React Native
+## What I Build
+- Backend services and APIs with Python, FastAPI, Flask, SQL, and PostgreSQL
+- AI systems involving embeddings, RAG workflows, and LLM infrastructure
+- Optimisation and solver-based systems for scheduling and constrained decision problems
+- Product features across web and mobile applications with React and React Native
 
-## Featured Projects
-- [opensre](https://github.com/yas789/opensre) - Open source AI SRE toolkit for building operational agents
-- [adaptive](https://github.com/yas789/adaptive) - LLM inference infrastructure focused on model selection and cost optimisation
-- [wsp-backtracker](https://github.com/yas789/wsp-backtracker) - Fixed-parameter solver for workflow satisfiability problems
-- [IncidentApp](https://github.com/yas789/IncidentApp) - Application work spanning operational workflows and user-facing incident handling features
+## Selected Work
+- [opensre](https://github.com/yas789/opensre) - Open source AI SRE toolkit for building operational agents and production-oriented automation
+- [adaptive](https://github.com/yas789/adaptive) - LLM inference infrastructure designed around model selection, efficiency, and cost optimisation
+- [wsp-backtracker](https://github.com/yas789/wsp-backtracker) - Fixed-parameter solver for workflow satisfiability, built from my work in optimisation and secure scheduling
+- [IncidentApp](https://github.com/yas789/IncidentApp) - Application work covering operational workflows, incident handling, and user-facing product functionality
 
-## Experience
-- Freelance frontend and mobile developer delivering production features across multiple commercial products
-- Research assistant working on quantum ML systems and reproducible Python experiment pipelines
-- Research assistant building OCR and LLM-assisted workflows for historical mathematical text analysis
+## Experience Snapshot
+- Delivered paid frontend and mobile work across multiple commercial products, shipping customer-facing flows for ordering, booking, admin, and operations
+- Built modular Python research pipelines for quantum ML and systems experiments, improving reproducibility and reducing runtime through workflow automation
+- Developed OCR and LLM-assisted tooling for historical mathematical text analysis in academic research settings
 
-## Tech
+## Technical Focus
 `Python` `Java` `C#` `SQL` `Bash` `FastAPI` `Flask` `PostgreSQL` `Docker` `GitHub Actions` `PyTorch` `Hugging Face`
 
-## Current Focus
-I'm especially interested in backend engineering, AI infrastructure, optimisation, and research-driven product development.
+## Current Interests
+I'm particularly interested in backend engineering, AI infrastructure, optimisation, and roles where strong systems thinking meets practical product delivery.
 
 ## Links
 - LinkedIn: [yassir-maknaoui](https://www.linkedin.com/in/yassir-maknaoui)
