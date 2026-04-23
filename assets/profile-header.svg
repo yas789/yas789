@@ -1,0 +1,28 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Yassir Maknaoui profile banner</title>
+  <desc id="desc">Software engineer focused on AI systems, backend platforms, and optimisation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1120" cy="70" r="110" fill="#FFFFFF" fill-opacity="0.06"/>
+  <circle cx="1180" cy="240" r="150" fill="#FFFFFF" fill-opacity="0.05"/>
+  <rect x="70" y="58" width="164" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="152" y="81" text-anchor="middle" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">OPEN TO SWE ROLES</text>
+  <text x="70" y="150" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Yassir Maknaoui</text>
+  <text x="70" y="192" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Software Engineer | AI Systems | Backend | Optimisation</text>
+  <text x="70" y="232" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="20">First-Class Computer Science and Mathematics graduate building reliable, production-ready software.</text>
+  <rect x="70" y="258" width="164" height="36" rx="18" fill="url(#pill)"/>
+  <rect x="246" y="258" width="198" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.14"/>
+  <rect x="456" y="258" width="186" height="36" rx="18" fill="#FFFFFF" fill-opacity="0.14"/>
+  <text x="152" y="281" text-anchor="middle" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Python</text>
+  <text x="345" y="281" text-anchor="middle" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Backend Systems</text>
+  <text x="549" y="281" text-anchor="middle" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">AI Infrastructure</text>
+</svg>
