@@ -1,6 +1,6 @@
 # Yassir Maknaoui
 
-@founder @LLM engineer @lover of mathematics/philosophy @book lover @appreciative of poetry and art
+@founder @LLM engineer @lover of mathematics/philosophy @appreciative of poetry and art
 
 ## Tech
 
