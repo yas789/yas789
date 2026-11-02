@@ -1,6 +1,6 @@
 # Yassir Maknaoui
 
-Software engineer building AI systems and backend services, with a soft spot for optimisation problems. Also fond of mathematics, philosophy, poetry and art.
+Software engineer building AI systems and backend services, with a soft spot for optimisation problems. Also fond of mathematics.
 
 ## Projects
 
